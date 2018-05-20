@@ -4,7 +4,7 @@ This Game was designes as a project in intro to Computer Science 2 class. (CS 23
 This code gives flexibility to change grid size of the Board and change how many beads needs to be connected inorder to Win.
 
 ## Compile instructions
-  **Use g++** compiler in terminal to compie this code. **Dont use gcc** appearently its giving some bugs need to be fixed for gcc.
+  **Use g++** compiler in terminal to compile this code. **Dont use gcc** appearently its giving some bugs need to be fixed for gcc.
 
 ## Check out this Video to see how to play Coonect 4.
 
